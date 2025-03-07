@@ -1,6 +1,12 @@
-# Hutao-Tools
-All in one downloader Support Yt, Facebook, QQmusic, more
+# Introduction
+Hutao Tools adalah website pengunduh yang mendukung tautan `Yt, Facebook, Tiktok, Instagram, Soundcloud, QQmusic, Kuaishou, dan lainnya`
 
 # Mempunyai Masalah pada web?
 Downloader tidak bekerja? silahkan Open Issues dibawah
-[Open Issues](https://github.com/rizxyu/Hutao-Tools/issues)
+[Open Issues](https://github.com/rizxyu/Hutao-Tools/issues/1)
+
+# Request Unduhan
+Ada tautan tapi web tidak mendukung? Kamu bisa request [disini](https://github.com/rizxyu/Hutao-Tools/issues/2)
+
+# Donasi
+Kamu bisa mendonasikan kamu melakui Trakteer/Saweria, Maupun melalui Koin crypto [disini](https://beta.wzblueline.xyz/) pada bagian Donasi
