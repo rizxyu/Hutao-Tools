@@ -1,5 +1,5 @@
 # Introduction
-Hutao Tools adalah website pengunduh yang mendukung tautan `Yt, Facebook, Tiktok, Instagram, Soundcloud, QQmusic, Kuaishou, dan lainnya`
+Hutao Tools adalah website pengunduh yang mendukung tautan `Yt, Facebook, Tiktok, Instagram, Soundcloud, Spotify Track dan Playlist, QQmusic, Kuaishou, dan lainnya`
 
 kunjungi Website [Disini](https://beta.wzblueline.xyz)
 
