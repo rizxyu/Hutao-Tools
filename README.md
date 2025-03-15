@@ -1,14 +1,50 @@
-# Introduction
-Hutao Tools adalah website pengunduh yang mendukung tautan `Yt, Facebook, Tiktok, Instagram, Soundcloud, Spotify Track dan Playlist, QQmusic, Kuaishou, dan lainnya`
+# HUTAO DL
 
-kunjungi Website [Disini](https://beta.wzblueline.xyz)
+## Visit Web
+[ Here ](https://app.wzblueline.xyz)
 
-# Mempunyai Masalah pada web?
-Downloader tidak bekerja? silahkan Open Issues dibawah
-[Open Issues](https://github.com/rizxyu/Hutao-Tools/issues/1)
+## Supported links for download
+- [x] Youtube
+- [x] Tiktok
+- [x] Soundcloud
+- [x] Spotify Track
+- [x] qqMusic
+- [x] kuaishou/kwaii
+- [x] Instagram
 
-# Request Unduhan
-Ada tautan tapi web tidak mendukung? Kamu bisa request [disini](https://github.com/rizxyu/Hutao-Tools/issues/2)
-
-# Donasi
-Kamu bisa mendonasikan kamu melakui Trakteer/Saweria, Maupun melalui Koin crypto [disini](https://beta.wzblueline.xyz/) pada bagian Donasi
+## Open Issues
+If you have any feature suggestions, please submit an issue [here](https://github.com/rizxyu/Hutao-Tools/issues/2) , Submit a problem report [here](https://github.com/rizxyu/Hutao-Tools/issues/1)
+  
+## Contributor
+<table>
+  <tr valign="middle">
+    <td width="20%" align="center" rowspan="2" colspan="2">
+      <a href="https://github.com/rizxyu">
+      <img src="https://images.weserv.nl/?url=github.com/rizxyu.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" width="128">
+      </a>
+      <br>
+      <a href="https://github.com/rizxyu">@Rizky</a>
+      <br>
+      Frontend & Backend Maintainer 
+    </td>
+    <td width="20%" align="center" rowspan="2" colspan="2">
+      <a href="https://github.com/mininxd">
+      <img src="https://images.weserv.nl/?url=github.com/mininxd.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" width="128">
+      </a>
+      <br>
+      <a href="https://github.com/mininxd">@Minin</a>
+      <br>
+      Frontend Maintainer
+    </td>
+    </td>
+    <td width="20%" align="center" rowspan="2" colspan="2">
+      <a href="https://github.com/MuhammadRestu999">
+      <img src="https://images.weserv.nl/?url=github.com/muhammadrestu999.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" width="128">
+      </a>
+      <br>
+      <a href="https://github.com/MuhammadRestu999">@Restu</a>
+      <br>
+      Backend Maintainer
+    </td>
+  </tr>
+</table>
