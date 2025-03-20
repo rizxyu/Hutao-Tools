@@ -11,6 +11,9 @@
 - [x] qqMusic
 - [x] kuaishou/kwaii
 - [x] Instagram
+- [x] Twitter
+- [ ] Douyin ( Coming soon )
+- [ ] Threads ( Coming soon )
 
 ## Open Issues
 If you have any feature suggestions, please submit an issue [here](https://github.com/rizxyu/Hutao-Tools/issues/2) , Submit a problem report [here](https://github.com/rizxyu/Hutao-Tools/issues/1)
